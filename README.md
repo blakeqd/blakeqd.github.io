@@ -1,4 +1,4 @@
 # blakeqd.github.io
 
-http://blakequebec.com
+https://blakequebec.com
 
